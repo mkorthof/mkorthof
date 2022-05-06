@@ -1,4 +1,4 @@
-## Personal GitHub Respositories
+## Personal GitHub Repositories
 
 Hi there, many of my hobby 'projects' can be found here.
 
