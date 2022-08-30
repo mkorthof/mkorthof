@@ -8,5 +8,5 @@ Hi there, many of my hobby 'projects' can be found here.
 - 👨🏻‍💻 Smaller scripts and oneliners: https://gist.github.com/mkorthof
 
 #### Other repos
-- 🥼 GitLab: https://gitlab.com/mkorthof
-- 🪣 BitBucket: https://bitbucket.org/mkorthof
+- 🦊 https://gitlab.com/mkorthof
+- 🪣 https://bitbucket.org/mkorthof
